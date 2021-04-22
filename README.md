@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Salomão Batista :D
+- 👋 Hi, I’m Salomão Batista 
 
 - 👀 I’m interested in becoming a developer 
 

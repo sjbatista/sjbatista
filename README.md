@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in becoming a developer 
 
-- 🌱 I’m currently learning Java, git, gitHub and Angular
+- 🌱 I’m currently learning Java, git, gradle and SpringBoot
 
 - 💞️ I am looking to acquire knowledge in the development area 
 

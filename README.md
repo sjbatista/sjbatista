@@ -4,8 +4,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjbatista&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="left" alt="avatar" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AM-JKLWiPGYCNPXU72ilxTG7fGUG5Jsw8b-3vmGIdgXluK5iFonEuU3cQ5UJhoZDSI_UC5nuS3ZSNirEL5JZVMycp2a4bXtQEY-2MgIGdus_4eILSS7-D9__ADd3bNKUsdVmOKKI8flyVaYZaM-tdawIGtMp=s400-no?authuser=0">
-  <img align="left" alt="Sj-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="left" alt="avatar" height="150" style="border-radius:50px;" src="https://github.com/sjbatista/sjbatista/blob/main/workflows/veigar.gif">
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Sj-Kotlin" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   &nbsp;&nbsp;&nbsp;

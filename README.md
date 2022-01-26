@@ -4,7 +4,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjbatista&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="left" alt="avatar" height="150" style="border-radius:50px;" src="https://github.com/sjbatista/sjbatista/blob/main/workflows/veigar.gif">
+  <img align="left" alt="avatar" height="150" style="border-radius:50px;" src="https://github.com/sjbatista/sjbatista/blob/main/workflows/veigar.png">
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Sj-Kotlin" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   &nbsp;&nbsp;&nbsp;

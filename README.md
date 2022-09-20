@@ -1,10 +1,15 @@
-<div align="left">
+<div align="center">
   <a href="https://github.com/sjbatista">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sjbatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjbatista&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="left" alt="avatar" height="150" style="border-radius:50px;" src="https://github.com/sjbatista/sjbatista/blob/main/workflows/avatar.png">
+<div align="center" style="display: inline_block"><br>
+&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Sj-JavaScript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Sj-Html" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Sj-Css" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg">
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Sj-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   &nbsp;&nbsp;&nbsp;
@@ -19,7 +24,7 @@
 </div>
 <br>
 <br>
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/sjsbatista" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/AXqzVmE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/dev-sjbatista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

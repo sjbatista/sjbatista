@@ -34,6 +34,8 @@
   <a href="https://api.whatsapp.com/send?phone=5531975336222&text=Olá ! Encontrei seu contato no GitHub !" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
 </div>
+  
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sjbatista&label=Profile%20views&color=ff00d0&style=flat" alt="sjbatista" /> </p>
 

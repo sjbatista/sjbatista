@@ -37,7 +37,7 @@
   
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sjbatista&label=Profile%20views&color=ff00d0&style=flat" alt="none" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sjbatista&label=Profile%20views&color=ff00d0&style=flat" alt="sjbatista" /> </p>
 
   
 
